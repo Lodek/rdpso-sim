@@ -1,0 +1,21 @@
+html, body {
+   margin: 0;
+   height: 100%;
+}
+
+#canvas {
+   width: 95%;
+   height: 100%;
+   display: block;
+
+}
+
+#config-result {
+  color: red;
+}
+
+#config {
+  height: 500px;
+  width: 500px;
+  margin-bottom: 20px;
+}
